@@ -1,7 +1,11 @@
-Hi,I am Nazish Alam
-I am intrested in learn more about programming
-I’m currently learning c language 
-I’m looking to collaborate on group project
+Hi,I am Nazish Alam.   
+
+I am intrested in learn more about programming.  
+
+I’m currently learning c language.   
+
+I’m looking to collaborate on group project.   
+
 Contact me at - nazishalam427@gmail.com
 
 
